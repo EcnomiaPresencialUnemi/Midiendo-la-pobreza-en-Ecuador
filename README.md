@@ -18,6 +18,17 @@ Este repositorio contiene el material del taller:
 
 ---
 
+## 📂 Datos
+
+El archivo `BDDenemdu_personas_2024_anual.sav` está disponible en la carpeta `/DATA` y puede ser usado directamente en Google Colab.
+
+### 🔗 Cómo cargar en Python
+
+```python
+import pyreadstat
+df, meta = pyreadstat.read_sav("data.sav")
+```
+
 ## ▶️ Cómo abrir el notebook en Google Colab
 
 Haz clic aquí para abrir directamente en Colab:  
