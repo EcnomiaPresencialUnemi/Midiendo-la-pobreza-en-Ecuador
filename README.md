@@ -29,11 +29,12 @@ import pyreadstat
 df, meta = pyreadstat.read_sav("data.sav")
 ```
 
-## ▶️ Cómo abrir el notebook en Google Colab
+### ▶️ Cómo abrir el notebook en Google Colab
 
-### 📘 Abrir el notebook en Google Colab
+Haz clic en el botón para abrir el cuaderno directamente:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EconomiaPresencialUnemi/Midiendo-la-pobreza-en-Ecuador/blob/main/Pobreza_Ecuador.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EcnomiaPresencialUnemi/Midiendo-la-pobreza-en-Ecuador/blob/main/Pobreza_Ecuador.ipynb)
+
 
 
 
