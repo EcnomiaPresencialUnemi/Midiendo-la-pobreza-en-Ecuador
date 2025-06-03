@@ -33,7 +33,7 @@ df, meta = pyreadstat.read_sav("data.sav")
 
 ### 📘 Abrir el notebook en Google Colab
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EconomiaPresencialUnemi/Midiendo-la-pobreza-en-Ecuador/blob/main/Pobreza_Ecuador.ipynb)
+[![Abrir en Colab](https://github.com/EcnomiaPresencialUnemi/Midiendo-la-pobreza-en-Ecuador/blob/main/Pobreza_Ecuador.ipynb)
 
 
 ---
